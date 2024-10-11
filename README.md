@@ -1,6 +1,6 @@
 # First NextJS Application
 
-## these simple pages (login, signup and dashboard) are created
+## Three simple pages (login, signup and dashboard) are created
 
 You can navigate to these pages by using below URLs
 
